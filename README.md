@@ -1,4 +1,4 @@
-#该项目是 YOJ 的前端，主要是使用 Vue3+Vue-CLI脚手架+Vuex状态管理+Arco Design组件库等实现同时还通过OpenAPI进行前端代码生成以及Markdown富文本编辑器等
+# 该项目是 YOJ 的前端，主要是使用 Vue3+Vue-CLI脚手架+Vuex状态管理+Arco Design组件库等实现同时还通过OpenAPI进行前端代码生成以及Markdown富文本编辑器等
 
 
 # yoj-frontend
